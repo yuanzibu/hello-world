@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  正在跳过...(未检测到相关更改)
+  ParallelDialog.cpp
+  GeneralInterface.cpp
+  DxfFile.cpp
+  ShapePoint.cpp
+  FPoint.cpp
+  Layer.cpp
+  PolyLine.cpp
+  Figure.cpp
+  Complex.cpp
+  Circle.cpp
+  Arc.cpp
+  CSingleton.cpp
+  AbTools.cpp
+  ABTDialog.cpp
+  ABT.cpp
+  正在跳过...(未检测到相关更改)
+  dllmain.cpp
+  ABT.vcxproj -> E:\新雕刻机\trunk\src\../bin/AbnormalShapeManagerd.dll

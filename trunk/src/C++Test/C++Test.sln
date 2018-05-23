@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++Test", "C++Test\C++Test.vcxproj", "{D8DC1EC7-52B2-4819-9DB7-6EED4A067A1E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm_CSharp", "..\Algorithm_CSharp\Algorithm_CSharp.vcxproj", "{7306FA0F-E694-4D6D-8676-F6168C9AD9DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8DC1EC7-52B2-4819-9DB7-6EED4A067A1E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8DC1EC7-52B2-4819-9DB7-6EED4A067A1E}.Debug|Win32.Build.0 = Debug|Win32
+		{D8DC1EC7-52B2-4819-9DB7-6EED4A067A1E}.Release|Win32.ActiveCfg = Release|Win32
+		{D8DC1EC7-52B2-4819-9DB7-6EED4A067A1E}.Release|Win32.Build.0 = Release|Win32
+		{7306FA0F-E694-4D6D-8676-F6168C9AD9DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7306FA0F-E694-4D6D-8676-F6168C9AD9DB}.Debug|Win32.Build.0 = Debug|Win32
+		{7306FA0F-E694-4D6D-8676-F6168C9AD9DB}.Release|Win32.ActiveCfg = Release|Win32
+		{7306FA0F-E694-4D6D-8676-F6168C9AD9DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

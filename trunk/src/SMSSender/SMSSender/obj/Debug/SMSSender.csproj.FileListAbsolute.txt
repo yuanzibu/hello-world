@@ -1,0 +1,5 @@
+E:\新雕刻机\trunk\bin\SMSSender.dll
+E:\新雕刻机\trunk\bin\SMSSender.pdb
+E:\新雕刻机\trunk\src\SMSSender\SMSSender\obj\Debug\SMSSender.dll
+E:\新雕刻机\trunk\src\SMSSender\SMSSender\obj\Debug\SMSSender.pdb
+E:\新雕刻机\trunk\src\SMSSender\SMSSender\obj\Debug\SMSSender.csprojResolveAssemblyReference.cache

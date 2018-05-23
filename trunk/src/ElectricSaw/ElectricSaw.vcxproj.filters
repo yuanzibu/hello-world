@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\DataProcess">
+      <UniqueIdentifier>{3ffd83ae-e2ee-4395-ab1d-36085f1bb89c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\DataProcess">
+      <UniqueIdentifier>{d73d5f89-1c82-4e34-be23-da23456ef44a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Misc">
+      <UniqueIdentifier>{42e5b529-103b-4689-a1ec-0d1f9e2fe63a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Misc">
+      <UniqueIdentifier>{e0b9665b-50e2-446f-abad-ec50ce4224e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Dlg">
+      <UniqueIdentifier>{36801ddf-42eb-48f7-b840-fb9db2d30310}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Dlg">
+      <UniqueIdentifier>{3c5493ff-f4d3-4b28-a409-f0a3e503659e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\ElectricSaw.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\ElectricSaw.ico">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ElectricSaw.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ElectricSawDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataProcess\DataProcess.h">
+      <Filter>头文件\DataProcess</Filter>
+    </ClInclude>
+    <ClInclude Include="Misc\Misc.h">
+      <Filter>头文件\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg\PanelListDlg.h">
+      <Filter>头文件\Dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg\ResultDlg.h">
+      <Filter>头文件\Dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="Dlg\TotalResultDlg.h">
+      <Filter>头文件\Dlg</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ElectricSaw.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ElectricSawDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DataProcess\DataProcess.cpp">
+      <Filter>源文件\DataProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="Misc\Misc.cpp">
+      <Filter>源文件\Misc</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg\PanelListDlg.cpp">
+      <Filter>源文件\Dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg\ResultDlg.cpp">
+      <Filter>源文件\Dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg\TotalResultDlg.cpp">
+      <Filter>源文件\Dlg</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ElectricSaw.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1223 @@
+﻿  Carving.cpp
+  .......................................当前为release版本
+  .......................................当前为release版本
+Carving.cpp(293): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+Carving.cpp(293): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+Carving.cpp(293): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+Carving.cpp(293): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+  CarvingDoc.cpp
+  .......................................当前为release版本
+  CarvingView.cpp
+  .......................................当前为release版本
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\UI/DlgResult.h(13): warning C4099: “PanelViewingParam”: 类型名称以前使用“struct”现在使用的是“class”
+          e:\新雕刻机\trunk\src\carving\../../include/DataManager/BaseDataType/CommonData/CommonData.h(149) : 参见“PanelViewingParam”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(175): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(176): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(252) : 参见“strupr”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1163): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(188) : 参见“strncpy”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 参见“strcpy”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1168): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 参见“strcat”的声明
+e:\新雕刻机\trunk\src\carving\NCProcess/SyntecProcess.h(17): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
+e:\新雕刻机\trunk\src\carving\NCProcess/CNCDataConverter.h(4): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DirVHType”
+CarvingView.cpp(452): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(453): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(454): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(455): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(456): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(463): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(464): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(481): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(487): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
+CarvingView.cpp(701): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(702): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(703): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(704): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(705): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(712): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(713): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(730): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(736): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
+CarvingView.cpp(843): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(844): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(845): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(846): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(847): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(857): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(858): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(885): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(891): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
+CarvingView.cpp(1007): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(1012): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+CarvingView.cpp(1013): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+CarvingView.cpp(1273): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(1292): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(1313): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(1385): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(1390): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+CarvingView.cpp(1391): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+CarvingView.cpp(1536): warning C4101: “i”: 未引用的局部变量
+CarvingView.cpp(1566): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(1758): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(1790): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(1810): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(1837): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1838): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1839): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1843): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1844): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1845): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1846): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1847): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1850): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1851): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1957): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(1969): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1972): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1990): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(1993): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2013): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2116): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2131): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2135): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2156): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2176): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2266): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2278): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2281): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2297): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2300): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2320): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2410): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2422): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2426): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2442): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2445): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2465): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2551): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2563): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2566): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2582): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2585): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2605): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2695): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2707): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2711): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2727): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2730): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2750): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2840): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2852): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2855): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2871): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2875): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(2895): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2986): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(2998): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3002): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3018): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3021): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3041): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3155): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3181): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3201): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3323): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3333): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3347): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3367): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3489): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3499): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3513): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3533): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3654): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3664): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3678): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3698): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3819): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3829): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3843): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(3863): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3985): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(3995): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4009): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4029): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4151): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4161): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4195): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4316): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4326): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4340): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4360): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4488): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4498): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4512): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4532): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4653): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4663): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4677): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4697): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4818): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4828): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4842): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(4862): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4983): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(4993): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(5007): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(5027): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(5149): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(5159): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(5173): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(5193): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(5314): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(5324): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(5338): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(5358): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(5479): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(5489): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(5503): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(5523): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(5644): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(5654): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(5668): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(5688): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(6100): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(6113): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(6206): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(6306): warning C4129: “/”: 不可识别的字符转义序列
+CarvingView.cpp(6325): warning C4129: “/”: 不可识别的字符转义序列
+CarvingView.cpp(6617): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+CarvingView.cpp(6618): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+CarvingView.cpp(6642): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+CarvingView.cpp(6643): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+CarvingView.cpp(6663): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+CarvingView.cpp(6664): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+CarvingView.cpp(6876): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(6884): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(6894): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(7019): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelMachine”
+CarvingView.cpp(7021): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
+CarvingView.cpp(7025): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
+CarvingView.cpp(7027): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
+CarvingView.cpp(7032): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelMachine”
+CarvingView.cpp(7045): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(7047): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(7073): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(7138): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(7304): warning C4129: “/”: 不可识别的字符转义序列
+CarvingView.cpp(7312): warning C4129: “/”: 不可识别的字符转义序列
+CarvingView.cpp(7696): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(7700): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(7788): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(7796): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(7806): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(8067): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(8112): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(8168): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(8419): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(8423): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(8457): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(8458): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(8459): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(8460): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(8512): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(8516): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(8550): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(8551): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(8552): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(8553): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(8635): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(8645): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(8647): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(8704): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(8705): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(8706): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(8707): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(8708): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(8718): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(8719): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+CarvingView.cpp(8744): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(8750): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
+CarvingView.cpp(8849): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9090): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9098): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9121): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+CarvingView.cpp(9125): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9160): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9179): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9180): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+CarvingView.cpp(9250): warning C4129: “/”: 不可识别的字符转义序列
+CarvingView.cpp(9250): warning C4129: “/”: 不可识别的字符转义序列
+CarvingView.cpp(9252): warning C4129: “h”: 不可识别的字符转义序列
+CarvingView.cpp(9270): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9283): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9335): warning C4129: “/”: 不可识别的字符转义序列
+CarvingView.cpp(9335): warning C4129: “/”: 不可识别的字符转义序列
+CarvingView.cpp(9344): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9349): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9356): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9587): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9596): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9829): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(299) : 参见“access”的声明
+CarvingView.cpp(9852): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9867): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9871): warning C4018: “<”: 有符号/无符号不匹配
+CarvingView.cpp(9898): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(299) : 参见“access”的声明
+CarvingView.cpp(9920): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(299) : 参见“access”的声明
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmemory(196): warning C4503: “std::_Uninitialized_copy”: 超出修饰名的长度，名称被截断
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmemory(196): warning C4503: “std::_Uninit_copy”: 超出修饰名的长度，名称被截断
+  ChildFrm.cpp
+  .......................................当前为release版本
+  DataProcess.cpp
+  .......................................当前为release版本
+DataProcess\DataProcess.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(149): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(202): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(206): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(343): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(346): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(350): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(363): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(366): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(370): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(413): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(436): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPosType”
+DataProcess\DataProcess.cpp(440): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPosType”
+DataProcess\DataProcess.cpp(444): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPosType”
+DataProcess\DataProcess.cpp(448): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPosType”
+DataProcess\DataProcess.cpp(469): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+DataProcess\DataProcess.cpp(470): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+DataProcess\DataProcess.cpp(542): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(554): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(555): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(561): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(562): warning C4244: “=”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(601): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(641): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(671): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(675): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(692): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(692): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(706): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(706): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(732): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(753): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(753): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(767): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(767): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+DataProcess\DataProcess.cpp(807): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPosType”
+DataProcess\DataProcess.cpp(811): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPosType”
+DataProcess\DataProcess.cpp(815): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPosType”
+DataProcess\DataProcess.cpp(819): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPosType”
+DataProcess\DataProcess.cpp(836): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DataProcess\DataProcess.cpp(836): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DataProcess\DataProcess.cpp(836): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DataProcess\DataProcess.cpp(836): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DataProcess\DataProcess.cpp(838): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DataProcess\DataProcess.cpp(838): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+DataProcess\DataProcess.cpp(873): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(889): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(957): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(975): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1121): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1169): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1192): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1194): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1216): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1271): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1303): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1334): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1349): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LineType”
+DataProcess\DataProcess.cpp(1360): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1400): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1408): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1421): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1434): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+DataProcess\DataProcess.cpp(1446): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+DataProcess\DataProcess.cpp(1520): warning C4018: “<”: 有符号/无符号不匹配
+DataProcess\DataProcess.cpp(1579): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  MainFrm.cpp
+  .......................................当前为release版本
+  .......................................当前为release版本
+  ProgramMisc.cpp
+  .......................................当前为release版本
+Misc\ProgramMisc.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(48): warning C4101: “e”: 未引用的局部变量
+Misc\ProgramMisc.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(89): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(107): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(117): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(121): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(180): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(205): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(207): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(354): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(399): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(410): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+Misc\ProgramMisc.cpp(411): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+Misc\ProgramMisc.cpp(413): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(413): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(413): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(413): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(419): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+Misc\ProgramMisc.cpp(419): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+Misc\ProgramMisc.cpp(419): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+Misc\ProgramMisc.cpp(419): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+Misc\ProgramMisc.cpp(425): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(428): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+Misc\ProgramMisc.cpp(428): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+Misc\ProgramMisc.cpp(428): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+Misc\ProgramMisc.cpp(428): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+Misc\ProgramMisc.cpp(490): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(502): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(587): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(595): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(608): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(620): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(651): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(663): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(675): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(706): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(798): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(800): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(806): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(808): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(857): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(864): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(961): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(990): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(1004): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(1024): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(1038): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(1101): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(1111): warning C4244: “初始化”: 从“float”转换到“INT”，可能丢失数据
+Misc\ProgramMisc.cpp(1112): warning C4244: “初始化”: 从“float”转换到“INT”，可能丢失数据
+Misc\ProgramMisc.cpp(1113): warning C4244: “初始化”: 从“float”转换到“INT”，可能丢失数据
+Misc\ProgramMisc.cpp(1114): warning C4244: “初始化”: 从“float”转换到“INT”，可能丢失数据
+Misc\ProgramMisc.cpp(1138): warning C4305: “参数”: 从“double”到“float”截断
+Misc\ProgramMisc.cpp(1153): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(1205): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+Misc\ProgramMisc.cpp(1205): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+Misc\ProgramMisc.cpp(1211): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(1227): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(1266): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(1293): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(1293): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+Misc\ProgramMisc.cpp(1370): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(1392): warning C4018: “<”: 有符号/无符号不匹配
+  BMainCode.cpp
+  ClientRegisterDlg.cpp
+UI\ClientRegisterDlg.cpp(117): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 参见“strcpy”的声明
+UI\ClientRegisterDlg.cpp(403): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ClientRegisterDlg.cpp(403): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ClientRegisterDlg.cpp(403): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ClientRegisterDlg.cpp(403): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+  DirSetDlg.cpp
+  DlgExcelInputSetting.cpp
+UI\DlgExcelInputSetting.cpp(262): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgExcelInputSetting.cpp(267): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgExcelInputSetting.cpp(326): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgExcelInputSetting.cpp(352): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgExcelInputSetting.cpp(356): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgExcelInputSetting.cpp(367): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgExcelInputSetting.cpp(396): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgExcelInputSetting.cpp(400): warning C4018: “<”: 有符号/无符号不匹配
+  DlgLabelPosCalc.cpp
+  .......................................当前为release版本
+UI\DlgLabelPosCalc.cpp(63): warning C4244: “初始化”: 从“LPARAM”转换到“float”，可能丢失数据
+UI\DlgLabelPosCalc.cpp(64): warning C4244: “初始化”: 从“WPARAM”转换到“float”，可能丢失数据
+UI\DlgLabelPosCalc.cpp(99): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgLabelPosCalc.cpp(117): warning C4018: “<”: 有符号/无符号不匹配
+  DlgRemainder.cpp
+UI\DlgRemainder.cpp(126): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\DlgRemainder.cpp(185): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\DlgRemainder.cpp(208): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRemainder.cpp(231): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(299) : 参见“access”的声明
+UI\DlgRemainder.cpp(248): warning C4018: “<”: 有符号/无符号不匹配
+  DlgRequirement.cpp
+  .......................................当前为release版本
+  .......................................当前为release版本
+UI\DlgRequirement.cpp(234): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement.cpp(394): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgRequirement.cpp(482): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement.cpp(484): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement.cpp(498): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ListItemState”
+UI\DlgRequirement.cpp(498): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ListItemState”
+UI\DlgRequirement.cpp(528): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ListItemState”
+UI\DlgRequirement.cpp(535): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“CSkinHeaderCtrl::State”
+UI\DlgRequirement.cpp(537): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“CSkinHeaderCtrl::State”
+UI\DlgRequirement.cpp(672): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement.cpp(893): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement.cpp(1076): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement.cpp(1112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\DlgRequirement.cpp(1114): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\DlgRequirement.cpp(1135): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\DlgRequirement.cpp(1137): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\DlgRequirement.cpp(1196): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement.cpp(1313): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement.cpp(1315): warning C4018: “<”: 有符号/无符号不匹配
+  DlgRequirement_PreCombine.cpp
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\ui\../Drawing/Drawing.h(29): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\DlgRequirement_PreCombine.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement_PreCombine.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement_PreCombine.cpp(72): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement_PreCombine.cpp(98): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement_PreCombine.cpp(206): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement_PreCombine.cpp(212): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement_PreCombine.cpp(232): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement_PreCombine.cpp(280): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(281): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(294): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(294): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(294): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(294): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(300): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(300): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(300): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(300): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(307): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(307): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(307): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(307): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(315): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(316): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(320): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(320): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(320): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(320): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgRequirement_PreCombine.cpp(351): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement_PreCombine.cpp(361): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgRequirement_PreCombine.cpp(378): warning C4018: “<”: 有符号/无符号不匹配
+  DlgResetMachiningInfo.cpp
+  DlgResult.cpp
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\ui\DlgResult.h(13): warning C4099: “PanelViewingParam”: 类型名称以前使用“struct”现在使用的是“class”
+          e:\新雕刻机\trunk\src\carving\../../include/DataManager/BaseDataType/CommonData/CommonData.h(149) : 参见“PanelViewingParam”的声明
+e:\新雕刻机\trunk\src\carving\ui\DlgTotalResult.h(14): warning C4099: “PanelViewingParam”: 类型名称以前使用“struct”现在使用的是“class”
+          e:\新雕刻机\trunk\src\carving\../../include/DataManager/BaseDataType/CommonData/CommonData.h(149) : 参见“PanelViewingParam”的声明
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\ui\../Drawing/Drawing.h(29): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\DlgResult.cpp(360): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(361): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(364): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgResult.cpp(364): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgResult.cpp(370): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(370): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(370): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(370): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(377): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgResult.cpp(380): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(380): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(380): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(380): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(404): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgResult.cpp(423): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgResult.cpp(426): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(426): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(426): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(426): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(438): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgResult.cpp(471): warning C4244: “初始化”: 从“float”转换到“INT”，可能丢失数据
+UI\DlgResult.cpp(472): warning C4244: “初始化”: 从“float”转换到“INT”，可能丢失数据
+UI\DlgResult.cpp(473): warning C4244: “初始化”: 从“float”转换到“INT”，可能丢失数据
+UI\DlgResult.cpp(474): warning C4244: “初始化”: 从“float”转换到“INT”，可能丢失数据
+UI\DlgResult.cpp(497): warning C4305: “参数”: 从“double”到“float”截断
+UI\DlgResult.cpp(512): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\DlgResult.cpp(564): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(564): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(570): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\DlgResult.cpp(586): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\DlgResult.cpp(720): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(721): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(722): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(723): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(726): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(726): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(727): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(728): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(728): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(744): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(745): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(746): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(747): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(750): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(750): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(751): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(752): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(752): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(835): warning C4244: “=”: 从“Gdiplus::REAL”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(836): warning C4244: “=”: 从“Gdiplus::REAL”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(838): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(838): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(840): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(840): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(854): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgResult.cpp(863): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(864): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(865): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(866): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(869): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(869): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(871): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(871): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(892): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgResult.cpp(944): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(944): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(944): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(944): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(950): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(950): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(950): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(950): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(962): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgResult.cpp(962): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgResult.cpp(1256): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(1256): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(1287): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(1287): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(1288): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(1288): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgResult.cpp(1354): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgResult.cpp(1691): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(1691): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(1691): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(1691): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgResult.cpp(1693): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\DlgResult.cpp(1694): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+  DlgSetMachiningOrder.cpp
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\ui\../Drawing/Drawing.h(29): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\DlgSetMachiningOrder.cpp(157): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(158): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(160): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(160): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(160): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(160): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(166): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(166): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(166): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(166): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgSetMachiningOrder.cpp(177): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(177): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(177): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(177): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(186): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(186): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(186): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(186): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(205): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(206): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(210): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(210): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(210): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(210): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(216): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(216): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(216): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(216): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(223): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgSetMachiningOrder.cpp(226): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(226): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(226): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\DlgSetMachiningOrder.cpp(226): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  DlgSetReminder.cpp
+UI\DlgSetReminder.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgSetReminder.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+  DlgTotalResult.cpp
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\ui\DlgTotalResult.h(14): warning C4099: “PanelViewingParam”: 类型名称以前使用“struct”现在使用的是“class”
+          e:\新雕刻机\trunk\src\carving\../../include/DataManager/BaseDataType/CommonData/CommonData.h(149) : 参见“PanelViewingParam”的声明
+  .......................................当前为release版本
+UI\DlgTotalResult.cpp(358): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgTotalResult.cpp(361): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgTotalResult.cpp(401): warning C4018: “<”: 有符号/无符号不匹配
+UI\DlgTotalResult.cpp(407): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+UI\DlgTotalResult.cpp(411): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在编译...
+  DlgWeiXin.cpp
+UI\DlgWeiXin.cpp(83): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\DlgWeiXin.cpp(83): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+  InOutDlg.cpp
+UI\InOutDlg.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+UI\InOutDlg.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+UI\InOutDlg.cpp(179): warning C4018: “<”: 有符号/无符号不匹配
+UI\InOutDlg.cpp(188): warning C4018: “<”: 有符号/无符号不匹配
+UI\InOutDlg.cpp(388): warning C4018: “<”: 有符号/无符号不匹配
+UI\InOutDlg.cpp(440): warning C4018: “<”: 有符号/无符号不匹配
+UI\InOutDlg.cpp(495): warning C4018: “<=”: 有符号/无符号不匹配
+UI\InOutDlg.cpp(532): warning C4018: “<”: 有符号/无符号不匹配
+  KnifeAddDlg.cpp
+UI\KnifeAddDlg.cpp(212): warning C4018: “<”: 有符号/无符号不匹配
+UI\KnifeAddDlg.cpp(234): warning C4018: “<”: 有符号/无符号不匹配
+UI\KnifeAddDlg.cpp(314): warning C4018: “<”: 有符号/无符号不匹配
+UI\KnifeAddDlg.cpp(394): warning C4018: “<”: 有符号/无符号不匹配
+UI\KnifeAddDlg.cpp(545): warning C4018: “>”: 有符号/无符号不匹配
+UI\KnifeAddDlg.cpp(609): warning C4018: “<”: 有符号/无符号不匹配
+UI\KnifeAddDlg.cpp(616): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+UI\KnifeAddDlg.cpp(699): warning C4018: “<”: 有符号/无符号不匹配
+UI\KnifeAddDlg.cpp(773): warning C4018: “>”: 有符号/无符号不匹配
+UI\KnifeAddDlg.cpp(809): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+UI\KnifeAddDlg.cpp(1588): warning C4018: “<”: 有符号/无符号不匹配
+UI\KnifeAddDlg.cpp(2427): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+UI\KnifeAddDlg.cpp(2442): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+UI\KnifeAddDlg.cpp(2457): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+UI\KnifeAddDlg.cpp(2471): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+UI\KnifeAddDlg.cpp(2485): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+UI\KnifeAddDlg.cpp(2499): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+UI\KnifeAddDlg.cpp(2513): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+UI\KnifeAddDlg.cpp(2528): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+UI\KnifeAddDlg.cpp(2542): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+  LeftPanelDlg.cpp
+  LingLiaoDlg.cpp
+  ListBoxClipBoard.cpp
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\ui\../Drawing/Drawing.h(29): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\ListBoxClipBoard.cpp(156): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(156): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(156): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(156): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(169): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(169): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(169): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(169): warning C4244: “参数”: 从“unsigned long”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(170): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(170): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(175): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(175): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(175): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(175): warning C4244: “参数”: 从“unsigned long”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(176): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(176): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxClipBoard.cpp(310): warning C4018: “<”: 有符号/无符号不匹配
+  ListBoxPreCombine.cpp
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\ui\../Drawing/Drawing.h(29): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\ListBoxPreCombine.cpp(130): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxPreCombine.cpp(130): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxPreCombine.cpp(130): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxPreCombine.cpp(130): warning C4244: “参数”: 从“unsigned long”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxPreCombine.cpp(131): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxPreCombine.cpp(131): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListBoxPreCombine.cpp(154): warning C4018: “<”: 有符号/无符号不匹配
+UI\ListBoxPreCombine.cpp(305): warning C4018: “<”: 有符号/无符号不匹配
+  ListTotalResult.cpp
+  .......................................当前为release版本
+UI\ListTotalResult.cpp(159): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(159): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(159): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(159): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(172): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(172): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(172): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(172): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(174): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(174): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(192): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(192): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(192): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(202): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\ListTotalResult.cpp(225): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\ListTotalResult.cpp(226): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\ListTotalResult.cpp(228): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\ListTotalResult.cpp(228): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\ListTotalResult.cpp(228): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\ListTotalResult.cpp(228): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\ListTotalResult.cpp(234): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\ListTotalResult.cpp(234): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\ListTotalResult.cpp(234): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\ListTotalResult.cpp(234): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\ListTotalResult.cpp(244): warning C4018: “<”: 有符号/无符号不匹配
+UI\ListTotalResult.cpp(247): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\ListTotalResult.cpp(247): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\ListTotalResult.cpp(247): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\ListTotalResult.cpp(247): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\ListTotalResult.cpp(259): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(259): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(259): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\ListTotalResult.cpp(259): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+  MainCode.cpp
+  MatrialItemEditDlg.cpp
+  .......................................当前为release版本
+UI\MatrialItemEditDlg.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+UI\MatrialItemEditDlg.cpp(614): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+UI\MatrialItemEditDlg.cpp(616): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\MatrialItemEditDlg.cpp(621): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+UI\MatrialItemEditDlg.cpp(623): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\MatrialItemEditDlg.cpp(628): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\MatrialItemEditDlg.cpp(642): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\MatrialItemEditDlg.cpp(647): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\MatrialItemEditDlg.cpp(652): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\MatrialItemEditDlg.cpp(657): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\MatrialItemEditDlg.cpp(719): warning C4018: “<”: 有符号/无符号不匹配
+UI\MatrialItemEditDlg.cpp(836): warning C4018: “>=”: 有符号/无符号不匹配
+  MatrialItemeEdit_MatrialDlg.cpp
+UI\MatrialItemeEdit_MatrialDlg.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+UI\MatrialItemeEdit_MatrialDlg.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+  OPSetDlg.cpp
+UI\OPSetDlg.cpp(27): warning C4305: “初始化”: 从“double”到“float”截断
+UI\OPSetDlg.cpp(89): warning C4305: “=”: 从“double”到“float”截断
+UI\OPSetDlg.cpp(97): warning C4305: “=”: 从“double”到“float”截断
+UI\OPSetDlg.cpp(105): warning C4305: “=”: 从“double”到“float”截断
+UI\OPSetDlg.cpp(113): warning C4305: “=”: 从“double”到“float”截断
+UI\OPSetDlg.cpp(121): warning C4305: “=”: 从“double”到“float”截断
+UI\OPSetDlg.cpp(129): warning C4305: “=”: 从“double”到“float”截断
+UI\OPSetDlg.cpp(137): warning C4305: “=”: 从“double”到“float”截断
+UI\OPSetDlg.cpp(212): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\OPSetDlg.cpp(216): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\OPSetDlg.cpp(220): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\OPSetDlg.cpp(224): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\OPSetDlg.cpp(232): warning C4244: “参数”: 从“BOOL”转换到“float”，可能丢失数据
+  OptimizeDlg.cpp
+  .......................................当前为release版本
+UI\OptimizeDlg.cpp(294): warning C4018: “<”: 有符号/无符号不匹配
+UI\OptimizeDlg.cpp(313): warning C4018: “<”: 有符号/无符号不匹配
+UI\OptimizeDlg.cpp(334): warning C4018: “<”: 有符号/无符号不匹配
+UI\OptimizeDlg.cpp(340): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+UI\OptimizeDlg.cpp(341): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+UI\OptimizeDlg.cpp(438): warning C4244: “初始化”: 从“LONGLONG”转换到“int”，可能丢失数据
+UI\OptimizeDlg.cpp(525): warning C4244: “初始化”: 从“LPARAM”转换到“float”，可能丢失数据
+UI\OptimizeDlg.cpp(526): warning C4244: “初始化”: 从“WPARAM”转换到“float”，可能丢失数据
+UI\OptimizeDlg.cpp(577): warning C4244: “初始化”: 从“WPARAM”转换到“float”，可能丢失数据
+UI\OptimizeDlg.cpp(578): warning C4244: “初始化”: 从“WPARAM”转换到“float”，可能丢失数据
+UI\OptimizeDlg.cpp(579): warning C4244: “初始化”: 从“LPARAM”转换到“float”，可能丢失数据
+  OtherShape.cpp
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\ui\../Drawing/Drawing.h(29): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\OtherShape.cpp(321): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(415): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(456): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(488): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(536): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(559): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(604): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(706): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(719): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\OtherShape.cpp(719): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\OtherShape.cpp(719): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\OtherShape.cpp(719): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\OtherShape.cpp(726): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\OtherShape.cpp(726): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\OtherShape.cpp(726): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\OtherShape.cpp(726): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\OtherShape.cpp(735): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(786): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(819): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\OtherShape.cpp(820): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\OtherShape.cpp(864): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\OtherShape.cpp(883): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(889): warning C4018: “<”: 有符号/无符号不匹配
+UI\OtherShape.cpp(928): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 参见“itoa”的声明
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmemory(196): warning C4503: “std::_Tree<_Traits>::insert”: 超出修饰名的长度，名称被截断
+          with
+          [
+              _Traits=std::_Tmap_traits<int,OutlineParamShape,std::less<int>,std::allocator<std::pair<const int,OutlineParamShape>>,false>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xmemory(196): warning C4503: “std::_Tree<_Traits>::_Insert”: 超出修饰名的长度，名称被截断
+          with
+          [
+              _Traits=std::_Tmap_traits<int,OutlineParamShape,std::less<int>,std::allocator<std::pair<const int,OutlineParamShape>>,false>
+          ]
+  PanelPrintDlg.cpp
+UI\PanelPrintDlg.cpp(60): warning C4101: “hDevNames”: 未引用的局部变量
+UI\PanelPrintDlg.cpp(59): warning C4101: “hDevMode”: 未引用的局部变量
+  ParamDlg.cpp
+  .......................................当前为release版本
+  .......................................当前为release版本
+UI\ParamDlg.cpp(387): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(388): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(389): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(464): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(467): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(470): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(473): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(476): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(479): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(482): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(485): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(488): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(542): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(545): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(548): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(551): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(740): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(743): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(746): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(750): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(753): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(756): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(762): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(765): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(768): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(771): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(1136): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(1139): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(1360): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(1384): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+UI\ParamDlg.cpp(1384): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ParamSettingDlg.cpp
+UI\ParamSettingDlg.cpp(245): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+UI\ParamSettingDlg.cpp(252): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+UI\ParamSettingDlg.cpp(259): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LingLiaoSortType”
+UI\ParamSettingDlg.cpp(264): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
+  PrintCodeDlg.cpp
+e:\新雕刻机\trunk\src\carving\ui\PrintCodeDlg.h(14): warning C4091: “extern ”: 没有声明变量时忽略“CPrintDialog”的左侧
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(175): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(176): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(252) : 参见“strupr”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1163): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(188) : 参见“strncpy”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 参见“strcpy”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1168): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 参见“strcat”的声明
+UI\PrintCodeDlg.cpp(186): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(244): warning C4018: “>=”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(245): warning C4018: “>=”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(250): warning C4018: “>=”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(256): warning C4018: “>=”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(401): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(338): warning C4101: “hDevNames”: 未引用的局部变量
+UI\PrintCodeDlg.cpp(337): warning C4101: “hDevMode”: 未引用的局部变量
+UI\PrintCodeDlg.cpp(564): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(659): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+UI\PrintCodeDlg.cpp(660): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+UI\PrintCodeDlg.cpp(679): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(696): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintCodeDlg.cpp(697): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintCodeDlg.cpp(698): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintCodeDlg.cpp(699): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintCodeDlg.cpp(787): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+UI\PrintCodeDlg.cpp(794): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+UI\PrintCodeDlg.cpp(885): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(993): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(1034): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(1460): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(1471): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintCodeDlg.cpp(1503): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintCodeDlg.cpp(1503): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintCodeDlg.cpp(1532): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(1542): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintCodeDlg.cpp(1573): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintCodeDlg.cpp(1573): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintCodeDlg.cpp(1696): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\PrintCodeDlg.cpp(1697): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\PrintCodeDlg.cpp(1698): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\PrintCodeDlg.cpp(1698): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\PrintCodeDlg.cpp(1698): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+UI\PrintCodeDlg.cpp(1698): warning C4244: “参数”: 从“double”转换到“Gdiplus::REAL”，可能丢失数据
+UI\PrintCodeDlg.cpp(1700): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\PrintCodeDlg.cpp(1700): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\PrintCodeDlg.cpp(1701): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\PrintCodeDlg.cpp(1702): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\PrintCodeDlg.cpp(1702): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\PrintCodeDlg.cpp(1703): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\PrintCodeDlg.cpp(1703): warning C4244: “参数”: 从“UINT”转换到“Gdiplus::REAL”，可能丢失数据
+UI\PrintCodeDlg.cpp(1678): warning C4101: “nLabelID”: 未引用的局部变量
+UI\PrintCodeDlg.cpp(1814): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(1839): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(1861): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintCodeDlg.cpp(1877): warning C4018: “<”: 有符号/无符号不匹配
+  PrintSetDlg.cpp
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(175): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(176): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(252) : 参见“strupr”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1163): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(188) : 参见“strncpy”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 参见“strcpy”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1168): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 参见“strcat”的声明
+e:\新雕刻机\trunk\src\carving\ui\PrintCodeDlg.h(14): warning C4091: “extern ”: 没有声明变量时忽略“CPrintDialog”的左侧
+UI\PrintSetDlg.cpp(94): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintSetDlg.cpp(219): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintSetDlg.cpp(332): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintSetDlg.cpp(409): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintSetDlg.cpp(447): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+UI\PrintSetDlg.cpp(448): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+UI\PrintSetDlg.cpp(454): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintSetDlg.cpp(471): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintSetDlg.cpp(472): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintSetDlg.cpp(473): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintSetDlg.cpp(474): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintSetDlg.cpp(493): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintSetDlg.cpp(647): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintSetDlg.cpp(657): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintSetDlg.cpp(688): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(688): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(720): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintSetDlg.cpp(730): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintSetDlg.cpp(761): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(761): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(811): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\PrintSetDlg.cpp(816): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(816): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(816): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(820): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(821): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(822): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(823): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(824): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(825): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(826): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(836): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\PrintSetDlg.cpp(841): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(841): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(841): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(843): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(844): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(845): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(846): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(847): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(848): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(849): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(876): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(877): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(879): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(880): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(882): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(883): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(885): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(886): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(890): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(891): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(892): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(899): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(900): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(901): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(908): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(909): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(910): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(917): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(918): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(919): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintSetDlg.cpp(1229): warning C4101: “hDevNames”: 未引用的局部变量
+UI\PrintSetDlg.cpp(1228): warning C4101: “hDevMode”: 未引用的局部变量
+UI\PrintSetDlg.cpp(1380): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintSetDlg.cpp(1393): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintSetDlg.cpp(1447): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintSetDlg.cpp(1499): warning C4018: “<”: 有符号/无符号不匹配
+  PrintUserSetDlg.cpp
+e:\新雕刻机\trunk\src\carving\ui\PrintCodeDlg.h(14): warning C4091: “extern ”: 没有声明变量时忽略“CPrintDialog”的左侧
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(175): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(176): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(252) : 参见“strupr”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1163): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(188) : 参见“strncpy”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 参见“strcpy”的声明
+e:\新雕刻机\trunk\src\carving\ui\../Misc/Barcode39.h(1168): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 参见“strcat”的声明
+UI\PrintUserSetDlg.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(145): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(158): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(168): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintUserSetDlg.cpp(176): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+UI\PrintUserSetDlg.cpp(163): warning C4101: “pSourceData”: 未引用的局部变量
+UI\PrintUserSetDlg.cpp(358): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(368): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(379): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(389): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintUserSetDlg.cpp(420): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintUserSetDlg.cpp(420): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintUserSetDlg.cpp(528): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(532): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(543): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(553): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\PrintUserSetDlg.cpp(584): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintUserSetDlg.cpp(584): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\PrintUserSetDlg.cpp(878): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(916): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(931): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(945): warning C4018: “<”: 有符号/无符号不匹配
+UI\PrintUserSetDlg.cpp(958): warning C4018: “<”: 有符号/无符号不匹配
+  正在编译...
+  PzCode.cpp
+  RemainderDlg.cpp
+  .......................................当前为release版本
+  SelMachineDlg.cpp
+UI\SelMachineDlg.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelMachineDlg.cpp(567): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelMachineDlg.cpp(575): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelMachineDlg.cpp(583): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelMachineDlg.cpp(591): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelMachineDlg.cpp(599): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelMachineDlg.cpp(607): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelMachineDlg.cpp(615): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelMachineDlg.cpp(623): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelMachineDlg.cpp(816): warning C4018: “<”: 有符号/无符号不匹配
+  SelectPathDlg.cpp
+  SelectPrintDlg.cpp
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\ui\../Drawing/Drawing.h(29): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+e:\新雕刻机\trunk\src\carving\ui\PrintCodeDlg.h(14): warning C4091: “extern ”: 没有声明变量时忽略“CPrintDialog”的左侧
+  .......................................当前为release版本
+UI\SelectPrintDlg.cpp(394): warning C4129: “/”: 不可识别的字符转义序列
+UI\SelectPrintDlg.cpp(412): warning C4129: “/”: 不可识别的字符转义序列
+UI\SelectPrintDlg.cpp(571): warning C4018: “>”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(656): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelectPrintDlg.cpp(661): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelectPrintDlg.cpp(721): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+UI\SelectPrintDlg.cpp(904): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+UI\SelectPrintDlg.cpp(950): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(1010): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\SelectPrintDlg.cpp(1010): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\SelectPrintDlg.cpp(1023): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+UI\SelectPrintDlg.cpp(1043): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(1055): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\SelectPrintDlg.cpp(1065): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(1074): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(1079): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\SelectPrintDlg.cpp(1083): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(1088): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\SelectPrintDlg.cpp(1092): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(1097): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\SelectPrintDlg.cpp(1101): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(1106): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\SelectPrintDlg.cpp(1189): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(1231): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+UI\SelectPrintDlg.cpp(1252): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\io.h(299) : 参见“access”的声明
+UI\SelectPrintDlg.cpp(1258): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+UI\SelectPrintDlg.cpp(1268): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+UI\SelectPrintDlg.cpp(1285): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\SelectPrintDlg.cpp(1307): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+UI\SelectPrintDlg.cpp(1308): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+UI\SelectPrintDlg.cpp(1312): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelectPrintDlg.cpp(1317): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\SelectPrintDlg.cpp(1317): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\SelectPrintDlg.cpp(1318): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\SelectPrintDlg.cpp(1348): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\SelectPrintDlg.cpp(1348): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\SelectPrintDlg.cpp(1349): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SelectPrintDlg.cpp(1355): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\SelectPrintDlg.cpp(1403): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+UI\SelectPrintDlg.cpp(1443): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+UI\SelectPrintDlg.cpp(1465): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(1485): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(1495): warning C4018: “<”: 有符号/无符号不匹配
+UI\SelectPrintDlg.cpp(1500): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\SelectPrintDlg.cpp(1565): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\SelectPrintDlg.cpp(1620): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+  SkinHeaderCtrl_ExcelSeting.cpp
+UI\SkinHeaderCtrl_ExcelSeting.cpp(313): warning C4018: “<”: 有符号/无符号不匹配
+UI\SkinHeaderCtrl_ExcelSeting.cpp(336): warning C4018: “<”: 有符号/无符号不匹配
+  SlottingDlg.cpp
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\ui\../Drawing/Drawing.h(29): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\SlottingDlg.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+UI\SlottingDlg.cpp(125): warning C4018: “<”: 有符号/无符号不匹配
+UI\SlottingDlg.cpp(226): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\SlottingDlg.cpp(227): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+UI\SlottingDlg.cpp(234): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\SlottingDlg.cpp(234): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\SlottingDlg.cpp(234): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\SlottingDlg.cpp(234): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+UI\SlottingDlg.cpp(241): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\SlottingDlg.cpp(241): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\SlottingDlg.cpp(241): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\SlottingDlg.cpp(241): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\SlottingDlg.cpp(250): warning C4018: “<”: 有符号/无符号不匹配
+UI\SlottingDlg.cpp(368): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\SlottingDlg.cpp(369): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\SlottingDlg.cpp(370): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\SlottingDlg.cpp(371): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+UI\SlottingDlg.cpp(374): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(374): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(375): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(376): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(376): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(391): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(391): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(392): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(392): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(396): warning C4244: “参数”: 从“int”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(396): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(396): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+UI\SlottingDlg.cpp(556): warning C4018: “<”: 有符号/无符号不匹配
+UI\SlottingDlg.cpp(661): warning C4018: “<”: 有符号/无符号不匹配
+UI\SlottingDlg.cpp(705): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SlottingDlg.cpp(706): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SlottingDlg.cpp(707): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SlottingDlg.cpp(708): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\SlottingDlg.cpp(709): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  SpCode.cpp
+  TheChangeCode.cpp
+  TiebiaoEdgeDlg.cpp
+UI\TiebiaoEdgeDlg.cpp(114): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\TiebiaoEdgeDlg.cpp(115): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+UI\TiebiaoEdgeDlg.cpp(198): warning C4018: “<”: 有符号/无符号不匹配
+UI\TiebiaoEdgeDlg.cpp(215): warning C4305: “初始化”: 从“double”到“float”截断
+UI\TiebiaoEdgeDlg.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+UI\TiebiaoEdgeDlg.cpp(218): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\TiebiaoEdgeDlg.cpp(219): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\TiebiaoEdgeDlg.cpp(236): warning C4305: “初始化”: 从“double”到“float”截断
+UI\TiebiaoEdgeDlg.cpp(237): warning C4018: “<”: 有符号/无符号不匹配
+UI\TiebiaoEdgeDlg.cpp(239): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+UI\TiebiaoEdgeDlg.cpp(240): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  UISettingDlg.cpp
+UI\UISettingDlg.cpp(82): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+  VecOffset.cpp
+  .......................................当前为release版本
+  VecSoltDlg.cpp
+  .......................................当前为release版本
+e:\新雕刻机\trunk\src\carving\ui\../Drawing/Drawing.h(29): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“PanelDiagramPrintingStyle”
+UI\VecSoltDlg.cpp(771): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\VecSoltDlg.cpp(771): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\VecSoltDlg.cpp(777): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\VecSoltDlg.cpp(777): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\VecSoltDlg.cpp(779): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\VecSoltDlg.cpp(779): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\VecSoltDlg.cpp(780): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\VecSoltDlg.cpp(780): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\VecSoltDlg.cpp(780): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+UI\VecSoltDlg.cpp(885): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Vecsoltchangedlg.cpp
+  .......................................当前为release版本
+     正在创建库 E:\新雕刻机\trunk\src\../bin/Carving.lib 和对象 E:\新雕刻机\trunk\src\../bin/Carving.exp
+  正在生成代码
+e:\新雕刻机\trunk\src\carving\ui\vecsoltdlg.cpp(823): warning C4715: “CVecSoltDlg::DeltaScale”: 不是所有的控件路径都返回值
+e:\新雕刻机\trunk\src\carving\ui\printusersetdlg.cpp(822): warning C4715: “CPrintUserSetDlg::PreTranslateMessage”: 不是所有的控件路径都返回值
+  已完成代码的生成
+  Carving.vcxproj -> E:\新雕刻机\trunk\src\../bin/Carving.exe

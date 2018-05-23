@@ -1,0 +1,52 @@
+﻿  Algorithm.cpp
+  .......................................当前为release版本
+Algorithm\Algorithm.cpp(1683): warning C4101: “next_x”: 未引用的局部变量
+Algorithm\Algorithm.cpp(1683): warning C4101: “cur_y”: 未引用的局部变量
+Algorithm\Algorithm.cpp(1683): warning C4101: “next_y”: 未引用的局部变量
+Algorithm\Algorithm.cpp(1683): warning C4101: “cur_x”: 未引用的局部变量
+Algorithm\Algorithm.cpp(1839): warning C4101: “next_x”: 未引用的局部变量
+Algorithm\Algorithm.cpp(1839): warning C4101: “cur_y”: 未引用的局部变量
+Algorithm\Algorithm.cpp(1839): warning C4101: “next_y”: 未引用的局部变量
+Algorithm\Algorithm.cpp(1839): warning C4101: “cur_x”: 未引用的局部变量
+Algorithm\Algorithm.cpp(2058): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Algorithm\Algorithm.cpp(2086): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  CSingleon.cpp
+  .......................................当前为release版本
+BaseDataType\CSingleton\CSingleon.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSingleton\CSingleon.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSingleton\CSingleon.cpp(224): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSingleton\CSingleon.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSingleton\CSingleon.cpp(260): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSingleton\CSingleon.cpp(481): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSingleton\CSingleon.cpp(508): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSingleton\CSingleon.cpp(536): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSingleton\CSingleon.cpp(624): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSingleton\CSingleon.cpp(670): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSingleton\CSingleon.cpp(676): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSingleton\CSingleon.cpp(720): warning C4018: “<”: 有符号/无符号不匹配
+  CSolution.cpp
+  .......................................当前为release版本
+BaseDataType\CSolution\CSolution.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSolution\CSolution.cpp(1767): warning C4018: “<”: 有符号/无符号不匹配
+BaseDataType\CSolution\CSolution.cpp(1841): warning C4018: “<”: 有符号/无符号不匹配
+  CommonData.cpp
+  Component.cpp
+  .......................................当前为release版本
+  Outline.cpp
+  .......................................当前为release版本
+  Panel.cpp
+  .......................................当前为release版本
+BaseDataType\Panel\Panel.cpp(180): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+BaseDataType\Panel\Panel.cpp(181): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  RemainderManager.cpp
+  ProgramMisc.cpp
+  .......................................当前为release版本
+Misc\ProgramMisc.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(28): warning C4101: “e”: 未引用的局部变量
+Misc\ProgramMisc.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(106): warning C4018: “<”: 有符号/无符号不匹配
+Misc\ProgramMisc.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+     正在创建库 E:\新雕刻机\trunk\src\../lib/DataManager.lib 和对象 E:\新雕刻机\trunk\src\../lib/DataManager.exp
+  正在生成代码
+  已完成代码的生成
+  DataManager.vcxproj -> E:\新雕刻机\trunk\src\../bin/DataManager.dll

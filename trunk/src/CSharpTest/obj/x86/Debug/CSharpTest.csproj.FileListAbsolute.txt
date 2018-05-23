@@ -1,0 +1,8 @@
+E:\新雕刻机\trunk\bin\CSharpTest.exe
+E:\新雕刻机\trunk\bin\CSharpTest.pdb
+E:\新雕刻机\trunk\src\CSharpTest\obj\x86\Debug\CSharpTest.Form1.resources
+E:\新雕刻机\trunk\src\CSharpTest\obj\x86\Debug\CSharpTest.Properties.Resources.resources
+E:\新雕刻机\trunk\src\CSharpTest\obj\x86\Debug\CSharpTest.csproj.GenerateResource.Cache
+E:\新雕刻机\trunk\src\CSharpTest\obj\x86\Debug\CSharpTest.exe
+E:\新雕刻机\trunk\src\CSharpTest\obj\x86\Debug\CSharpTest.pdb
+E:\新雕刻机\trunk\src\CSharpTest\obj\x86\Debug\CSharpTest.csprojResolveAssemblyReference.cache

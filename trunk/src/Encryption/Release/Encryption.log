@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(E:\新雕刻机\trunk\src\../bin/Encryption.dll) 与 Linker 的 OutputFile 属性值(E:\新雕刻机\trunk\bin\drawing.dll)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(992,5): warning MSB8012: TargetName(Encryption) 与 Linker 的 OutputFile 属性值(drawing)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+     正在创建库 E:\新雕刻机\trunk\src\../lib/Encryption.lib 和对象 E:\新雕刻机\trunk\src\../lib/Encryption.exp
+  正在生成代码
+  已完成代码的生成
+  Encryption.vcxproj -> E:\新雕刻机\trunk\src\../bin/Encryption.dll

@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  TestBase64Dlg.cpp
+e:\新雕刻机\trunk\src\testbase64\testbase64\testbase64dlg.cpp(303): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+e:\新雕刻机\trunk\src\testbase64\testbase64\testbase64dlg.cpp(326): warning C4101: “e”: 未引用的局部变量
+e:\新雕刻机\trunk\src\testbase64\testbase64\testbase64dlg.cpp(330): warning C4101: “e”: 未引用的局部变量
+e:\新雕刻机\trunk\src\testbase64\testbase64\testbase64dlg.cpp(333): warning C4101: “e”: 未引用的局部变量
+e:\新雕刻机\trunk\src\testbase64\testbase64\testbase64dlg.cpp(368): warning C4244: “=”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  TestBase64.cpp
+  DES.cpp
+e:\新雕刻机\trunk\src\testbase64\testbase64\des\des.cpp(98): warning C4309: “初始化”: 截断常量值
+e:\新雕刻机\trunk\src\testbase64\testbase64\des\des.cpp(98): warning C4309: “初始化”: 截断常量值
+e:\新雕刻机\trunk\src\testbase64\testbase64\des\des.cpp(98): warning C4309: “初始化”: 截断常量值
+e:\新雕刻机\trunk\src\testbase64\testbase64\des\des.cpp(367): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+e:\新雕刻机\trunk\src\testbase64\testbase64\des\des.cpp(370): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+e:\新雕刻机\trunk\src\testbase64\testbase64\des\des.cpp(408): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+e:\新雕刻机\trunk\src\testbase64\testbase64\des\des.cpp(411): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+  正在生成代码...
+     正在创建库 E:\新雕刻机\trunk\src\Debug\新雕刻机加解密工具.lib 和对象 E:\新雕刻机\trunk\src\Debug\新雕刻机加解密工具.exp
+LINK : warning LNK4232: 名称 新雕刻机加解密工具.exe 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  TestBase64.vcxproj -> E:\新雕刻机\trunk\src\Debug\新雕刻机加解密工具.exe

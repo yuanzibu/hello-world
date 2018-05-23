@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB2312" standalone="yes" ?>
+<Root>
+    <Group GroupID="0" Material="颗粒板/R5681" Thickness="18">
+        <Item GroupID="0" ItemID="0" Material="颗粒板/R5681" Thickness="18" Length="100" Width="100" Count="1" />
+    </Group>
+    <Group GroupID="1" Material="中纤板/8-0056时尚榉木" Thickness="18">
+        <Item GroupID="1" ItemID="0" Material="中纤板/8-0056时尚榉木" Thickness="18" Length="330" Width="498" Count="1" />
+        <Item GroupID="1" ItemID="1" Material="中纤板/8-0056时尚榉木" Thickness="18" Length="1162" Width="80" Count="1" />
+        <Item GroupID="1" ItemID="2" Material="中纤板/8-0056时尚榉木" Thickness="18" Length="2098" Width="120" Count="1" />
+        <Item GroupID="1" ItemID="3" Material="中纤板/8-0056时尚榉木" Thickness="18" Length="330" Width="710" Count="1" />
+        <Item GroupID="1" ItemID="4" Material="中纤板/8-0056时尚榉木" Thickness="18" Length="462" Width="206" Count="1" />
+        <Item GroupID="1" ItemID="5" Material="中纤板/8-0056时尚榉木" Thickness="18" Length="1966" Width="1214" Count="1" />
+    </Group>
+    <Group GroupID="2" Material="中纤板/8-0056时尚榉木" Thickness="16">
+        <Item GroupID="2" ItemID="0" Material="中纤板/8-0056时尚榉木" Thickness="16" Length="2016" Width="1214" Count="1" />
+    </Group>
+    <Group GroupID="3" Material="中纤板/8-0056时尚榉木" Thickness="9">
+        <Item GroupID="3" ItemID="0" Material="中纤板/8-0056时尚榉木" Thickness="9" Length="436" Width="474" Count="1" />
+        <Item GroupID="3" ItemID="1" Material="中纤板/8-0056时尚榉木" Thickness="9" Length="2434" Width="734" Count="1" />
+    </Group>
+</Root>

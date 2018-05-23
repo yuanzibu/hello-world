@@ -1,0 +1,4 @@
+﻿  C++TestDlg.cpp
+  .......................................当前为debug版本
+e:\新雕刻机\trunk\src\c++test\c++test\c++testdlg.cpp(190): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+  C++Test.vcxproj -> E:\新雕刻机\trunk\src\C++Test\../../bin/C++Testd.exe
