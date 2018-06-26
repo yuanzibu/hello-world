@@ -1,2 +1,32 @@
-﻿     正在创建库 E:\新雕刻机\trunk\src\../bin/KnifeDlld.lib 和对象 E:\新雕刻机\trunk\src\../bin/KnifeDlld.exp
-  KnifeDll.vcxproj -> E:\新雕刻机\trunk\src\../bin/KnifeDlld.dll
+﻿生成启动时间为 2018/6/26 0:00:57。
+     1>项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\KnifeDll\KnifeDll.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\KnifeDll.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/KnifeDlld.dll" /INCREMENTAL /NOLOGO /DEF:".\KnifeDll.def" /MANIFEST /ManifestFile:"Debug\KnifeDlld.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../pdb/KnifeDlldd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/KnifeDlld.lib" /MACHINE:X86 /DLL Debug\KnifeDll.res
+         Debug\KnifeDlld.dll.embed.manifest.res
+         Debug\KnifeClass.obj
+         Debug\KnifeDll.obj
+         Debug\stdafx.obj
+            正在创建库 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/KnifeDlld.lib 和对象 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/KnifeDlld.exp
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\KnifeDlld.dll.embed.manifest" /manifest Debug\KnifeDlld.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         KnifeDll.vcxproj -> E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/KnifeDlld.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\KnifeDll.unsuccessfulbuild”。
+         正在对“Debug\KnifeDll.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\KnifeDll\KnifeDll.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.58

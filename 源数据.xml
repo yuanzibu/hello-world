@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="gb2312"?>
 <Root>
   <图片集>
-		<图片 路径="C:\Users\admin\Documents\001.tif" 数量="1" />
-		<图片 路径="C:\Users\admin\Documents\002.tif" 数量="2" />
-		<图片 路径="C:\Users\admin\Documents\003.tif" 数量="3" />
+		<图片 路径="C:\Users\admin\Desktop\tif测试图片\001.tif" 数量="1" />
+		<图片 路径="C:\Users\admin\Desktop\tif测试图片\002.tif" 数量="1" />
+		<图片 路径="C:\Users\admin\Desktop\tif测试图片\003.tif" 数量="1" />
   </图片集>
   <原料集>
 		<原料 名称="kt板" 长度="914" 宽度="50" 单价="100" />

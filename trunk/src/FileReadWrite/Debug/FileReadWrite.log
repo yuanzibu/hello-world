@@ -1,3 +1,398 @@
-﻿  RemainderLibraryReadWrite.cpp
-  .......................................当前为debug版本
-  FileReadWrite.vcxproj -> E:\新雕刻机\trunk\src\../bin/FileReadWrited.dll
+﻿生成启动时间为 2018/6/25 23:58:00。
+     1>项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\FileReadWrite\FileReadWrite.vcxproj”在节点 3 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\FileReadWrite.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\FileReadWrite.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\FileReadWrited.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\FileReadWrited.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ClientInfoReadWrite\ClientInfoReadWrite.cpp ClientInfoReadWrite\HardwareInfo.cpp DxfReadWrite\dl_dxf.cpp DxfReadWrite\dl_writer_ascii.cpp DxfReadWrite\DxfReadWrite.cpp DxfReadWrite\test_creationclass.cpp ExcelReadWrite\ExcelReadWrite.cpp FileReadWrite.cpp HgmReadWrite\HgmReadWrite.cpp HgmReadWrite\Markup.cpp HgyReadWrite\HgyReadWrite.cpp Misc\EncryptionInterface.cpp Misc\HGCode.cpp Misc\HGTools.cpp Misc\Misc.cpp Misc\OtherShapeHelper.cpp Misc\ProgramMisc.cpp Misc\XmlHandlePlus.cpp Misc\YHInfoTools.cpp PicInfoReadWrite\PicInfoReadWrite.cpp RemainderLibraryReadWrite\RemainderLibraryReadWrite.cpp
+         RemainderLibraryReadWrite.cpp
+         .......................................当前为debug版本
+         PicInfoReadWrite.cpp
+         .......................................当前为debug版本
+         YHInfoTools.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(781): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(789): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(792): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(795): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(798): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(801): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(837): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(845): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(848): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(851): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(854): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\yhinfotools.cpp(864): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         XmlHandlePlus.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\xmlhandleplus.cpp(313): warning C4018: “<”: 有符号/无符号不匹配
+         ProgramMisc.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\programmisc.cpp(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\programmisc.cpp(32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\programmisc.cpp(73): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\programmisc.cpp(75): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\programmisc.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\programmisc.cpp(235): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LineType”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\programmisc.cpp(237): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LineType”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\programmisc.cpp(244): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LineType”
+         OtherShapeHelper.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(103): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(104): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(105): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(122): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(123): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(127): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(128): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(132): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(133): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(173): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(266): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(279): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(302): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(315): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(360): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(363): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(464): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(529): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(546): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(564): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(565): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(570): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(571): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(608): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(620): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(625): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(633): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(634): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(635): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(653): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(659): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(664): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(672): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(686): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(688): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(715): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(745): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(770): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(783): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LineType”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(784): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“OutlineGroupType”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(796): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“OutlineGroupType”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(796): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“OutlineGroupType”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\othershapehelper.cpp(807): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LineType”
+         Misc.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\misc.cpp(77): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\misc.cpp(214): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\misc.cpp(263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         HGTools.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\hgtools.cpp(25): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\hgtools.cpp(45): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(363) : 参见“_snprintf”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\hgtools.cpp(95): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\hgtools.cpp(181): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\hgtools.cpp(352): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+         HGCode.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\hgcode.cpp(131): warning C4101: “e”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\hgcode.cpp(354): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\hgcode.cpp(364): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\hgcode.cpp(387): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\hgcode.cpp(397): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\misc\hgcode.cpp(409): warning C4101: “ndx”: 未引用的局部变量
+         EncryptionInterface.cpp
+         HgyReadWrite.cpp
+         .......................................当前为debug版本
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(62): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(458): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(459): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(460): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(496): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(497): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(498): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(499): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(530): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(531): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(532): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(533): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(534): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(567): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(568): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(569): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(570): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(602): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(603): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(604): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(605): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(606): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(812): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(813): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(814): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(815): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(816): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(824): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(825): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(826): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(827): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(829): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(830): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(838): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(839): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(840): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(928): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(929): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(930): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(935): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(936): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(937): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(938): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(943): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(946): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(955): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(956): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(957): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(974): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(975): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(976): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(977): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(979): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(990): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(991): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(992): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(993): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(996): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(997): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(998): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(999): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgyreadwrite\hgyreadwrite.cpp(1000): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         Markup.cpp
+         HgmReadWrite.cpp
+         .......................................当前为debug版本
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(82): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(83): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(146): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(157): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(158): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(159): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(179): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(180): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(181): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(285): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(293): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(294): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(295): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(518): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(519): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(590): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(591): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(592): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(593): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(594): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(610): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(611): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(612): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(613): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(614): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(683): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(684): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(685): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(686): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(687): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(695): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(801): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(802): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(803): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(804): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(805): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(821): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(822): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(823): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(824): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(825): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(894): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(895): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(896): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(897): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(898): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(906): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(957): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(958): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(959): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(1006): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\hgmreadwrite\hgmreadwrite.cpp(1020): warning C4018: “<”: 有符号/无符号不匹配
+         FileReadWrite.cpp
+         ExcelReadWrite.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(271): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(277): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(286): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(289): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(292): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(295): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(343): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(346): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(349): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(395): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(422): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(448): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(474): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(500): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(532): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(536): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(547): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(548): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(559): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(574): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(580): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\excelreadwrite\excelreadwrite.cpp(593): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+         test_creationclass.cpp
+         DxfReadWrite.cpp
+         .......................................当前为debug版本
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(297): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(321): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(359): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(360): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(363): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(364): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(411): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(412): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(415): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(416): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(931): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(955): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(993): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(994): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(997): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(998): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(1045): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(1046): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(1049): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dxfreadwrite.cpp(1050): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         dl_writer_ascii.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_writer_ascii.cpp(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_writer_ascii.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_writer_ascii.cpp(119): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+         dl_dxf.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_dxf.cpp(117): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_dxf.cpp(2289): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_dxf.cpp(2838): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_dxf.cpp(2842): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_dxf.cpp(3512): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_dxf.cpp(5270): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_dxf.cpp(5271): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_dxf.cpp(5272): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_dxf.cpp(5273): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_dxf.cpp(5274): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\dxfreadwrite\dl_dxf.cpp(5275): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+         HardwareInfo.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\clientinforeadwrite\hardwareinfo.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\clientinforeadwrite\hardwareinfo.cpp(174): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\clientinforeadwrite\hardwareinfo.cpp(228): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+         正在生成代码...
+         正在编译...
+         ClientInfoReadWrite.cpp
+         .......................................当前为debug版本
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\filereadwrite\clientinforeadwrite\clientinforeadwrite.cpp(225): warning C4244: “初始化”: 从“LONGLONG”转换到“long”，可能丢失数据
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         .......................................当前为debug版本
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\FileReadWrite.res" FileReadWrite.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\FileReadWrited.dll.embed.manifest.res" Debug\FileReadWrited_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/FileReadWrited.dll" /INCREMENTAL /NOLOGO /DEF:".\FileReadWrite.def" /MANIFEST /ManifestFile:"Debug\FileReadWrited.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../pdb/FileReadWritedd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/FileReadWrited.lib" /MACHINE:X86 /DLL Debug\FileReadWrite.res
+         Debug\FileReadWrited.dll.embed.manifest.res
+         Debug\ClientInfoReadWrite.obj
+         Debug\HardwareInfo.obj
+         Debug\dllmain.obj
+         Debug\dl_dxf.obj
+         Debug\dl_writer_ascii.obj
+         Debug\DxfReadWrite.obj
+         Debug\test_creationclass.obj
+         Debug\ExcelReadWrite.obj
+         Debug\FileReadWrite.obj
+         Debug\HgmReadWrite.obj
+         Debug\Markup.obj
+         Debug\HgyReadWrite.obj
+         Debug\EncryptionInterface.obj
+         Debug\HGCode.obj
+         Debug\HGTools.obj
+         Debug\Misc.obj
+         Debug\OtherShapeHelper.obj
+         Debug\ProgramMisc.obj
+         Debug\XmlHandlePlus.obj
+         Debug\YHInfoTools.obj
+         Debug\PicInfoReadWrite.obj
+         Debug\RemainderLibraryReadWrite.obj
+         Debug\stdafx.obj
+            正在创建库 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/FileReadWrited.lib 和对象 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/FileReadWrited.exp
+       Manifest:
+         正在删除文件“Debug\FileReadWrited.dll.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FileReadWrited.dll.embed.manifest" /manifest Debug\FileReadWrited.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\FileReadWrited.dll.embed.manifest.res" Debug\FileReadWrited_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/FileReadWrited.dll" /INCREMENTAL /NOLOGO /DEF:".\FileReadWrite.def" /MANIFEST /ManifestFile:"Debug\FileReadWrited.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../pdb/FileReadWritedd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/FileReadWrited.lib" /MACHINE:X86 /DLL Debug\FileReadWrite.res
+         Debug\FileReadWrited.dll.embed.manifest.res
+         Debug\ClientInfoReadWrite.obj
+         Debug\HardwareInfo.obj
+         Debug\dllmain.obj
+         Debug\dl_dxf.obj
+         Debug\dl_writer_ascii.obj
+         Debug\DxfReadWrite.obj
+         Debug\test_creationclass.obj
+         Debug\ExcelReadWrite.obj
+         Debug\FileReadWrite.obj
+         Debug\HgmReadWrite.obj
+         Debug\Markup.obj
+         Debug\HgyReadWrite.obj
+         Debug\EncryptionInterface.obj
+         Debug\HGCode.obj
+         Debug\HGTools.obj
+         Debug\Misc.obj
+         Debug\OtherShapeHelper.obj
+         Debug\ProgramMisc.obj
+         Debug\XmlHandlePlus.obj
+         Debug\YHInfoTools.obj
+         Debug\PicInfoReadWrite.obj
+         Debug\RemainderLibraryReadWrite.obj
+         Debug\stdafx.obj
+            正在创建库 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/FileReadWrited.lib 和对象 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/FileReadWrited.exp
+         FileReadWrite.vcxproj -> E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/FileReadWrited.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\FileReadWrite.unsuccessfulbuild”。
+         正在对“Debug\FileReadWrite.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\FileReadWrite\FileReadWrite.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:19.73

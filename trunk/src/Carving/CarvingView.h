@@ -75,6 +75,7 @@ protected:
 	afx_msg void OnRButtonUp(UINT nFlags, CPoint point);
 	afx_msg void OnContextMenu(CWnd* pWnd, CPoint point);
 
+	afx_msg void OnOpenSourcePicInfo();
 	afx_msg void OnOpenSourceHG();
 	afx_msg void OnOpenSourceHGAppend();
 	afx_msg void OnOpenSourceExcelAppend();

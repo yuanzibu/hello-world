@@ -58,6 +58,12 @@
     <Filter Include="源文件\RemainderLibraryReadWrite">
       <UniqueIdentifier>{fcda97c9-bef5-43b7-b40e-6ac2a879a847}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\PicInfoReadWrite">
+      <UniqueIdentifier>{6a08b4bc-f151-493a-a503-3925a4851841}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\PicInfoReadWrite">
+      <UniqueIdentifier>{fcf67bc3-0b51-4bf4-ad46-9720a6cc6eb2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
@@ -134,6 +140,9 @@
     </ClCompile>
     <ClCompile Include="RemainderLibraryReadWrite\RemainderLibraryReadWrite.cpp">
       <Filter>源文件\RemainderLibraryReadWrite</Filter>
+    </ClCompile>
+    <ClCompile Include="PicInfoReadWrite\PicInfoReadWrite.cpp">
+      <Filter>源文件\PicInfoReadWrite</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -250,6 +259,9 @@
     </ClInclude>
     <ClInclude Include="RemainderLibraryReadWrite\RemainderLibraryReadWrite.h">
       <Filter>头文件\RemainderLibraryReadWrite</Filter>
+    </ClInclude>
+    <ClInclude Include="PicInfoReadWrite\PicInfoReadWrite.h">
+      <Filter>头文件\PicInfoReadWrite</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

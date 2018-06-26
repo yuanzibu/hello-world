@@ -66,6 +66,7 @@
       <OutputFile>..\..\..\bin\$(TargetName)$(TargetExt)</OutputFile>
       <AdditionalLibraryDirectories>..\lib</AdditionalLibraryDirectories>
       <AdditionalDependencies>libcurld.lib</AdditionalDependencies>
+      <ImportLibrary>$(SolutionDir)../lib/$(ProjectName)d.lib</ImportLibrary>
     </Link>
     <Midl>
       <MkTypLibCompatible>false</MkTypLibCompatible>

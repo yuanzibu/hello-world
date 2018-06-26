@@ -133,6 +133,7 @@
     <ClCompile Include="Misc\ProgramMisc.cpp" />
     <ClCompile Include="Misc\XmlHandlePlus.cpp" />
     <ClCompile Include="Misc\YHInfoTools.cpp" />
+    <ClCompile Include="PicInfoReadWrite\PicInfoReadWrite.cpp" />
     <ClCompile Include="RemainderLibraryReadWrite\RemainderLibraryReadWrite.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
@@ -173,6 +174,7 @@
     <ClInclude Include="Misc\ProgramMisc.h" />
     <ClInclude Include="Misc\XmlHandlePlus.h" />
     <ClInclude Include="Misc\YHInfoTools.h" />
+    <ClInclude Include="PicInfoReadWrite\PicInfoReadWrite.h" />
     <ClInclude Include="RemainderLibraryReadWrite\RemainderLibraryReadWrite.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="stdafx.h" />

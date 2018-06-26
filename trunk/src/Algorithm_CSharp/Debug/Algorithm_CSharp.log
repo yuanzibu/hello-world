@@ -1,7 +1,33 @@
-﻿  Algorithm.cpp
-  .......................................当前为debug版本
-  .......................................当前为debug版本
-e:\新雕刻机\trunk\src\algorithm_csharp\algorithm.cpp(53): warning C4305: “=”: 从“double”到“float”截断
-e:\新雕刻机\trunk\src\algorithm_csharp\algorithm.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
-     正在创建库 E:\新雕刻机\trunk\src\../lib/Algorithm_CSharpd.lib 和对象 E:\新雕刻机\trunk\src\../lib/Algorithm_CSharpd.exp
-  Algorithm_CSharp.vcxproj -> E:\新雕刻机\trunk\src\../bin/Algorithm_CSharpd.dll
+﻿生成启动时间为 2018/6/25 23:59:00。
+     1>项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\Algorithm_CSharp\Algorithm_CSharp.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Algorithm_CSharp.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/Algorithm_CSharpd.dll" /INCREMENTAL /NOLOGO /DEF:".\Algorithm_CSharp.def" /MANIFEST /ManifestFile:"Debug\Algorithm_CSharpd.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../pdb/Algorithm_CSharpdd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/Algorithm_CSharpd.lib" /MACHINE:X86 /DLL Debug\Algorithm_CSharp.res
+         Debug\Algorithm_CSharpd.dll.embed.manifest.res
+         Debug\Algorithm.obj
+         Debug\Algorithm_CSharp.obj
+         Debug\Markup.obj
+         Debug\stdafx.obj
+            正在创建库 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/Algorithm_CSharpd.lib 和对象 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/Algorithm_CSharpd.exp
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Algorithm_CSharpd.dll.embed.manifest" /manifest Debug\Algorithm_CSharpd.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Algorithm_CSharp.vcxproj -> E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/Algorithm_CSharpd.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Algorithm_CSharp.unsuccessfulbuild”。
+         正在对“Debug\Algorithm_CSharp.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\Algorithm_CSharp\Algorithm_CSharp.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.24

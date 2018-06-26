@@ -1,1 +1,125 @@
-﻿  DataManager.vcxproj -> E:\新雕刻机\trunk\src\../bin/DataManagerd.dll
+﻿生成启动时间为 2018/6/25 23:58:02。
+     1>项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\DataManager\DataManager.vcxproj”在节点 5 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\DataManager.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\DataManager.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\DataManagerd.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\DataManagerd.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Algorithm\Algorithm.cpp BaseDataType\BaseInfo\BaseInfo.cpp BaseDataType\CommonData\CommonData.cpp BaseDataType\Component\Component.cpp BaseDataType\CSingleton\CSingleon.cpp BaseDataType\CSolution\CSolution.cpp BaseDataType\Node\Node.cpp BaseDataType\Outline\Outline.cpp BaseDataType\Panel\Panel.cpp BaseDataType\RemainderGroup\RemainderGroup.cpp BaseDataType\RemainderItem\RemainderItem.cpp BaseDataType\RemainderManager\RemainderManager.cpp DataManager.cpp Misc\ProgramMisc.cpp
+         ProgramMisc.cpp
+         .......................................当前为debug版本
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\misc\programmisc.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\misc\programmisc.cpp(28): warning C4101: “e”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\misc\programmisc.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\misc\programmisc.cpp(106): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\misc\programmisc.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+         DataManager.cpp
+         RemainderManager.cpp
+         RemainderItem.cpp
+         RemainderGroup.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\remaindergroup\remaindergroup.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+         Panel.cpp
+         .......................................当前为debug版本
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\panel\panel.cpp(180): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\panel\panel.cpp(181): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+         Outline.cpp
+         .......................................当前为debug版本
+         Node.cpp
+         CSolution.cpp
+         .......................................当前为debug版本
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csolution\csolution.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csolution\csolution.cpp(1767): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csolution\csolution.cpp(1841): warning C4018: “<”: 有符号/无符号不匹配
+         CSingleon.cpp
+         .......................................当前为debug版本
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(224): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(260): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(481): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(508): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(536): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(624): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(670): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(676): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\csingleton\csingleon.cpp(720): warning C4018: “<”: 有符号/无符号不匹配
+         Component.cpp
+         .......................................当前为debug版本
+         CommonData.cpp
+         BaseInfo.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\basedatatype\baseinfo\baseinfo.cpp(15): warning C4305: “=”: 从“double”到“float”截断
+         Algorithm.cpp
+         .......................................当前为debug版本
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\algorithm\algorithm.cpp(1683): warning C4101: “next_x”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\algorithm\algorithm.cpp(1683): warning C4101: “cur_y”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\algorithm\algorithm.cpp(1683): warning C4101: “next_y”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\algorithm\algorithm.cpp(1683): warning C4101: “cur_x”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\algorithm\algorithm.cpp(1839): warning C4101: “next_x”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\algorithm\algorithm.cpp(1839): warning C4101: “cur_y”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\algorithm\algorithm.cpp(1839): warning C4101: “next_y”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\algorithm\algorithm.cpp(1839): warning C4101: “cur_x”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\algorithm\algorithm.cpp(2058): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\datamanager\algorithm\algorithm.cpp(2086): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\DataManager.res" DataManager.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\DataManagerd.dll.embed.manifest.res" Debug\DataManagerd_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/DataManagerd.dll" /INCREMENTAL /NOLOGO /DEF:".\DataManager.def" /MANIFEST /ManifestFile:"Debug\DataManagerd.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../pdb/DataManagerdd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/DataManagerd.lib" /MACHINE:X86 /DLL Debug\DataManager.res
+         Debug\DataManagerd.dll.embed.manifest.res
+         Debug\Algorithm.obj
+         Debug\BaseInfo.obj
+         Debug\CommonData.obj
+         Debug\Component.obj
+         Debug\CSingleon.obj
+         Debug\CSolution.obj
+         Debug\Node.obj
+         Debug\Outline.obj
+         Debug\Panel.obj
+         Debug\RemainderGroup.obj
+         Debug\RemainderItem.obj
+         Debug\RemainderManager.obj
+         Debug\DataManager.obj
+         Debug\dllmain.obj
+         Debug\ProgramMisc.obj
+         Debug\stdafx.obj
+            正在创建库 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/DataManagerd.lib 和对象 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/DataManagerd.exp
+       Manifest:
+         正在删除文件“Debug\DataManagerd.dll.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\DataManagerd.dll.embed.manifest" /manifest Debug\DataManagerd.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\DataManagerd.dll.embed.manifest.res" Debug\DataManagerd_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/DataManagerd.dll" /INCREMENTAL /NOLOGO /DEF:".\DataManager.def" /MANIFEST /ManifestFile:"Debug\DataManagerd.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../pdb/DataManagerdd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/DataManagerd.lib" /MACHINE:X86 /DLL Debug\DataManager.res
+         Debug\DataManagerd.dll.embed.manifest.res
+         Debug\Algorithm.obj
+         Debug\BaseInfo.obj
+         Debug\CommonData.obj
+         Debug\Component.obj
+         Debug\CSingleon.obj
+         Debug\CSolution.obj
+         Debug\Node.obj
+         Debug\Outline.obj
+         Debug\Panel.obj
+         Debug\RemainderGroup.obj
+         Debug\RemainderItem.obj
+         Debug\RemainderManager.obj
+         Debug\DataManager.obj
+         Debug\dllmain.obj
+         Debug\ProgramMisc.obj
+         Debug\stdafx.obj
+            正在创建库 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/DataManagerd.lib 和对象 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/DataManagerd.exp
+         DataManager.vcxproj -> E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/DataManagerd.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\DataManager.unsuccessfulbuild”。
+         正在对“Debug\DataManager.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\DataManager\DataManager.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:15.80

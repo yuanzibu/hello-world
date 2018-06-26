@@ -1,277 +1,402 @@
-﻿  CarvingView.cpp
-  .......................................当前为debug版本
-  .......................................当前为debug版本
-e:\新雕刻机\trunk\src\carving\ui\dlgresult.h(13): warning C4099: “PanelViewingParam”: 类型名称以前使用“struct”现在使用的是“class”
-          e:\新雕刻机\trunk\include\datamanager\basedatatype\commondata\commondata.h(149) : 参见“PanelViewingParam”的声明
-e:\新雕刻机\trunk\src\carving\misc\barcode39.h(175): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
-e:\新雕刻机\trunk\src\carving\misc\barcode39.h(176): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
-          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
-e:\新雕刻机\trunk\src\carving\misc\barcode39.h(1163): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : 参见“strncpy”的声明
-e:\新雕刻机\trunk\src\carving\misc\barcode39.h(1167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
-e:\新雕刻机\trunk\src\carving\misc\barcode39.h(1168): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
-e:\新雕刻机\trunk\src\carving\ncprocess\syntecprocess.h(17): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
-e:\新雕刻机\trunk\src\carving\ncprocess\cncdataconverter.h(4): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DirVHType”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(452): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(453): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(454): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(455): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(456): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(463): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(464): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(481): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(487): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(701): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(702): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(703): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(704): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(705): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(712): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(713): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(730): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(736): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(843): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(844): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(845): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(846): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(847): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(857): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(858): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(885): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(891): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1007): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1012): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1013): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1273): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1292): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1313): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1385): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1390): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1391): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1536): warning C4101: “i”: 未引用的局部变量
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1566): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1758): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1790): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1810): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1837): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1838): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1839): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1843): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1844): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1845): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1846): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1847): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1850): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1851): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1957): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1969): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1972): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1990): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(1993): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2013): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2116): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2131): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2135): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2156): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2176): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2266): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2278): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2281): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2297): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2300): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2320): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2410): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2422): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2426): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2442): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2445): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2465): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2551): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2563): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2566): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2582): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2585): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2605): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2695): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2707): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2711): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2727): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2730): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2750): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2840): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2852): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2855): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2871): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2875): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2895): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2986): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(2998): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3002): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3018): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3021): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3041): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3155): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3181): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3201): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3323): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3333): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3347): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3367): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3489): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3499): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3513): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3533): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3654): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3664): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3678): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3698): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3819): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3829): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3843): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3863): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3985): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(3995): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4009): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4029): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4151): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4161): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4195): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4316): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4326): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4340): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4360): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4488): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4498): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4512): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4532): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4653): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4663): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4677): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4697): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4818): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4828): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4842): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4862): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4983): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(4993): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5007): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5027): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5149): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5159): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5173): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5193): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5314): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5324): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5338): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5358): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5479): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5489): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5503): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5523): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5644): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5654): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5668): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(5688): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6100): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6113): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6206): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6306): warning C4129: “/”: 不可识别的字符转义序列
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6325): warning C4129: “/”: 不可识别的字符转义序列
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6617): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6618): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6642): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6643): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6663): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6664): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6876): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6884): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(6894): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7019): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelMachine”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7021): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7025): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7027): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7032): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelMachine”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7045): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7047): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7073): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7138): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7304): warning C4129: “/”: 不可识别的字符转义序列
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7312): warning C4129: “/”: 不可识别的字符转义序列
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7696): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7700): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7788): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7796): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(7806): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8067): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8112): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8168): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8419): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8423): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8457): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8458): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8459): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8460): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8512): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8516): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8550): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8551): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8552): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8553): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8635): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8645): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8647): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8704): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8705): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8706): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8707): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8708): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8718): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8719): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8744): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8750): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(8849): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9090): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9098): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9121): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9125): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9160): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9179): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9180): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9250): warning C4129: “/”: 不可识别的字符转义序列
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9250): warning C4129: “/”: 不可识别的字符转义序列
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9252): warning C4129: “h”: 不可识别的字符转义序列
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9270): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9283): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9335): warning C4129: “/”: 不可识别的字符转义序列
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9335): warning C4129: “/”: 不可识别的字符转义序列
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9344): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9349): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9356): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9587): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9596): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9829): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
-          c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 参见“access”的声明
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9852): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9867): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9871): warning C4018: “<”: 有符号/无符号不匹配
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9898): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
-          c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 参见“access”的声明
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9920): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
-          c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 参见“access”的声明
-c:\program files (x86)\microsoft visual studio 10.0\vc\include\xmemory(196): warning C4503: “std::_Uninitialized_copy”: 超出修饰名的长度，名称被截断
-c:\program files (x86)\microsoft visual studio 10.0\vc\include\xmemory(196): warning C4503: “std::_Uninit_copy”: 超出修饰名的长度，名称被截断
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9631): warning C4700: 使用了未初始化的局部变量“_CutSpeech”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9632): warning C4700: 使用了未初始化的局部变量“_ProSpeech”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9633): warning C4700: 使用了未初始化的局部变量“_OverSpeech”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9634): warning C4700: 使用了未初始化的局部变量“_distance1”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9635): warning C4700: 使用了未初始化的局部变量“_distance2”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9656): warning C4700: 使用了未初始化的局部变量“_upHeight”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9657): warning C4700: 使用了未初始化的局部变量“_downHeight”
-e:\新雕刻机\trunk\src\carving\carvingview.cpp(9658): warning C4700: 使用了未初始化的局部变量“_EndSpeech”
-  Carving.vcxproj -> E:\新雕刻机\trunk\src\../bin/Carvingd.exe
+﻿生成启动时间为 2018/6/26 0:07:44。
+     1>项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\Carving\Carving.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Carving.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Carvingd.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CarvingView.cpp
+         CarvingView.cpp
+         .......................................当前为debug版本
+         .......................................当前为debug版本
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\ui\dlgresult.h(13): warning C4099: “PanelViewingParam”: 类型名称以前使用“struct”现在使用的是“class”
+                 e:\袁梓埠个人文件夹\代码\hello-world\trunk\include\datamanager\basedatatype\commondata\commondata.h(149) : 参见“PanelViewingParam”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\misc\barcode39.h(175): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\misc\barcode39.h(176): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(252) : 参见“strupr”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\misc\barcode39.h(1163): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\misc\barcode39.h(1167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\misc\barcode39.h(1168): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\ncprocess\syntecprocess.h(17): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\ncprocess\cncdataconverter.h(4): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“DirVHType”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(454): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(455): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(456): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(457): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(458): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(465): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(466): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(483): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(489): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(590): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(591): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(592): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(593): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(594): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(601): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(602): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(633): warning C4244: “初始化”: 从“Gdiplus::REAL”转换到“UINT”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(634): warning C4244: “初始化”: 从“Gdiplus::REAL”转换到“UINT”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(636): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(637): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(639): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(640): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(891): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(892): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(893): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(894): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(895): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(902): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(903): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(920): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(926): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1033): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1034): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1035): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1036): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1037): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1047): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1048): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1075): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1081): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1197): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1202): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1203): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1463): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1482): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1503): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1575): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1580): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1581): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1726): warning C4101: “i”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1756): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1948): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(1980): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2000): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2027): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2028): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2029): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2033): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2034): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2035): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2036): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2037): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2040): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2041): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2147): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2159): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2162): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2180): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2183): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2203): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2306): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2321): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2325): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2343): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2346): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2366): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2456): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2468): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2471): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2487): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2490): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2510): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2600): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2612): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2616): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2632): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2635): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2655): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2741): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2753): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2756): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2772): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2775): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2795): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2885): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2897): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2901): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2917): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2920): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(2940): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3030): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3042): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3045): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3061): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3065): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3085): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3176): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3188): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3192): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3208): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3211): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3231): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3345): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3357): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3371): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3391): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3513): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3523): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3537): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3557): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3679): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3689): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3703): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3723): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3844): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3854): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3868): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(3888): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4009): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4019): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4033): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4053): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4175): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4185): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4199): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4219): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4341): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4351): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4365): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4385): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4506): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4516): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4530): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4550): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4678): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4688): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4702): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4722): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4843): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4853): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4867): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(4887): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5008): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5018): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5032): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5052): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5173): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5183): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5217): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5339): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5349): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5363): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5383): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5504): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5514): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5528): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5548): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5669): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5679): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5693): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5713): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5834): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5844): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5858): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(5878): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(6290): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(6303): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(6396): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(6496): warning C4129: “/”: 不可识别的字符转义序列
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(6515): warning C4129: “/”: 不可识别的字符转义序列
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(6807): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(6808): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(6832): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(6833): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(6853): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(6854): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7066): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7074): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7084): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7209): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelMachine”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7211): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7215): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7217): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelPastingSide”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7222): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“LabelMachine”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7235): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7237): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7263): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7328): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7494): warning C4129: “/”: 不可识别的字符转义序列
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7502): warning C4129: “/”: 不可识别的字符转义序列
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7886): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7890): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7978): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7986): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(7996): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8257): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8302): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8358): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8609): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8613): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8647): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8648): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8649): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8650): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8702): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8706): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8740): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8741): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8742): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8743): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8825): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8835): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8837): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8894): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8895): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8896): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8897): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8898): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8908): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8909): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8934): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(8940): warning C4482: 使用了非标准扩展: 限定名中使用了枚举“ReminderModifyType”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9039): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9280): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9288): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9311): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9315): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9350): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9369): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9370): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9440): warning C4129: “/”: 不可识别的字符转义序列
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9440): warning C4129: “/”: 不可识别的字符转义序列
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9442): warning C4129: “h”: 不可识别的字符转义序列
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9460): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9473): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9525): warning C4129: “/”: 不可识别的字符转义序列
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9525): warning C4129: “/”: 不可识别的字符转义序列
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9534): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9539): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9546): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9777): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9786): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(10019): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 参见“access”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(10042): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(10057): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(10061): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(10088): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 参见“access”的声明
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(10110): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _access. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\io.h(299) : 参见“access”的声明
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\xmemory(196): warning C4503: “std::_Uninitialized_copy”: 超出修饰名的长度，名称被截断
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\xmemory(196): warning C4503: “std::_Uninit_copy”: 超出修饰名的长度，名称被截断
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9821): warning C4700: 使用了未初始化的局部变量“_CutSpeech”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9822): warning C4700: 使用了未初始化的局部变量“_ProSpeech”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9823): warning C4700: 使用了未初始化的局部变量“_OverSpeech”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9824): warning C4700: 使用了未初始化的局部变量“_distance1”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9825): warning C4700: 使用了未初始化的局部变量“_distance2”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9846): warning C4700: 使用了未初始化的局部变量“_upHeight”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9847): warning C4700: 使用了未初始化的局部变量“_downHeight”
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\carving\carvingview.cpp(9848): warning C4700: 使用了未初始化的局部变量“_EndSpeech”
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/Carvingd.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Carvingd.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../pdb/Carvingdd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/Carvingd.lib" /MACHINE:X86 Debug\Carving.res
+         Debug\Carvingd.exe.embed.manifest.res
+         Debug\Carving.obj
+         Debug\CarvingDoc.obj
+         Debug\CarvingView.obj
+         Debug\ChildFrm.obj
+         Debug\DataProcess.obj
+         Debug\CNCDataConverter.obj
+         Debug\XiaoFengLabelProcess.obj
+         Debug\DlgRemainder.obj
+         Debug\DlgSetReminder.obj
+         Debug\DlgRequirement_PreCombine.obj
+         Debug\ListBoxPreCombine.obj
+         Debug\Menu_ExcelSetting.obj
+         Debug\SyntecProcess.obj
+         Debug\DlgExcelInputSetting.obj
+         Debug\DlgResetMachiningInfo.obj
+         Debug\DlgWeiXin.obj
+         Debug\DlgLabelPosCalc.obj
+         Debug\RemainderDlg.obj
+         Debug\SkinHeaderCtrl_ExcelSeting.obj
+         Debug\Link.obj
+         Debug\DialogChildBase.obj
+         Debug\ListBoxClipBoard.obj
+         Debug\EncryptionInterface.obj
+         Debug\Drawing.obj
+         Debug\DlgSetMachiningOrder.obj
+         Debug\OptimizeDlg.obj
+         Debug\PngButton.obj
+         Debug\PngButton_Stretchable.obj
+         Debug\RibbonCategorySelf.obj
+         Debug\RibbonBarSelf.obj
+         Debug\RibbonButtonSelf.obj
+         Debug\ListCtrlMaterial.obj
+         Debug\MainFrm.obj
+         Debug\CIniFile.obj
+         Debug\HGTools.obj
+         Debug\Misc.obj
+         Debug\OtherShapeHelper.obj
+         Debug\ProgramMisc.obj
+         Debug\UTF8ToMBCS.obj
+         Debug\XmlHandlePlus.obj
+         Debug\YHInfoTools.obj
+         Debug\SkinListCtrlBase.obj
+         Debug\stdafx.obj
+         Debug\UIData.obj
+         Debug\BMainCode.obj
+         Debug\ClientRegisterDlg.obj
+         Debug\DirSetDlg.obj
+         Debug\DlgRequirement.obj
+         Debug\DlgResult.obj
+         Debug\DlgTotalResult.obj
+         Debug\ImageListCtrl.obj
+         Debug\InOutDlg.obj
+         Debug\KnifeAddDlg.obj
+         Debug\LeftPanelDlg.obj
+         Debug\LingLiaoDlg.obj
+         Debug\ListRequirement.obj
+         Debug\ListTotalResult.obj
+         Debug\MainCode.obj
+         Debug\MatrialItemEditDlg.obj
+         Debug\MatrialItemeEdit_MatrialDlg.obj
+         Debug\OPSetDlg.obj
+         Debug\OtherShape.obj
+         Debug\PanelPrintDlg.obj
+         Debug\ParamDlg.obj
+         Debug\ParamSettingDlg.obj
+         Debug\PrintCodeDlg.obj
+         Debug\PrintSetDlg.obj
+         Debug\PrintUserSetDlg.obj
+         Debug\PzCode.obj
+         Debug\SelectPathDlg.obj
+         Debug\SelectPrintDlg.obj
+         Debug\SelMachineDlg.obj
+         Debug\SkinHeaderCtrl.obj
+         Debug\SlottingDlg.obj
+         Debug\SpCode.obj
+         Debug\TheChangeCode.obj
+         Debug\TiebiaoEdgeDlg.obj
+         Debug\MemDC.obj
+         Debug\TabBar.obj
+         Debug\UISettingDlg.obj
+         Debug\VecOffset.obj
+         Debug\Vecsoltchangedlg.obj
+         Debug\VecSoltDlg.obj
+         Debug\MachineDef.obj
+         Debug\WorkDef.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Carvingd.exe.embed.manifest" /manifest Debug\Carvingd.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Carving.vcxproj -> E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/Carvingd.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Carving.unsuccessfulbuild”。
+         正在对“Debug\Carving.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\Carving\Carving.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.97

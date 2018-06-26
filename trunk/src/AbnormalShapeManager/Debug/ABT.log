@@ -1,20 +1,123 @@
-﻿  stdafx.cpp
-  正在跳过...(未检测到相关更改)
-  ParallelDialog.cpp
-  GeneralInterface.cpp
-  DxfFile.cpp
-  ShapePoint.cpp
-  FPoint.cpp
-  Layer.cpp
-  PolyLine.cpp
-  Figure.cpp
-  Complex.cpp
-  Circle.cpp
-  Arc.cpp
-  CSingleton.cpp
-  AbTools.cpp
-  ABTDialog.cpp
-  ABT.cpp
-  正在跳过...(未检测到相关更改)
-  dllmain.cpp
-  ABT.vcxproj -> E:\新雕刻机\trunk\src\../bin/AbnormalShapeManagerd.dll
+﻿生成启动时间为 2018/6/25 23:57:51。
+     1>项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\AbnormalShapeManager\ABT.vcxproj”在节点 4 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\AbnormalShapeManager.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\AbnormalShapeManager.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\AbnormalShapeManagerd.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\AbnormalShapeManagerd.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ABT.cpp ABTDialog.cpp AbTools.cpp DataManager\CSingleton.cpp DataManager\Figure\Arc.cpp DataManager\Figure\Circle.cpp DataManager\Figure\Complex.cpp DataManager\Figure\Figure.cpp DataManager\Figure\PolyLine.cpp DataManager\Layer\Layer.cpp DataManager\Point\FPoint.cpp DataManager\Point\ShapePoint.cpp FileRW\DxfFile.cpp GeneralInterface\GeneralInterface.cpp ParallelDialog.cpp
+         ParallelDialog.cpp
+         GeneralInterface.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(198): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(224): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(225): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(302): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(849): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(934): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(935): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(992): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(993): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(1090): warning C4804: “>=”: 在操作中使用类型“bool”不安全
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(1283): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\generalinterface\generalinterface.cpp(1284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         DxfFile.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\filerw\dxffile.cpp(232): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\filerw\dxffile.cpp(232): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\filerw\dxffile.cpp(236): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\filerw\dxffile.cpp(236): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\filerw\dxffile.cpp(240): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\filerw\dxffile.cpp(240): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\filerw\dxffile.cpp(244): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\filerw\dxffile.cpp(244): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+         ShapePoint.cpp
+         FPoint.cpp
+         Layer.cpp
+         PolyLine.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\datamanager\figure\polyline.cpp(107): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\datamanager\figure\polyline.cpp(289): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\datamanager\figure\polyline.cpp(44): warning C4101: “dy”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\datamanager\figure\polyline.cpp(44): warning C4101: “mid_Interpolate_x”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\datamanager\figure\polyline.cpp(44): warning C4101: “mid_Interpolate_y”: 未引用的局部变量
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\datamanager\figure\polyline.cpp(44): warning C4101: “dx”: 未引用的局部变量
+         Figure.cpp
+         Complex.cpp
+         Circle.cpp
+         Arc.cpp
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\datamanager\figure\arc.cpp(167): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\datamanager\figure\arc.cpp(347): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\datamanager\figure\arc.cpp(358): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         CSingleton.cpp
+         AbTools.cpp
+         .......................................当前为debug版本
+         ABTDialog.cpp
+         .......................................当前为debug版本
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\abtdialog.cpp(487): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\abtdialog.cpp(1408): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\abtdialog.cpp(1409): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+     1>e:\袁梓埠个人文件夹\代码\hello-world\trunk\src\abnormalshapemanager\abtdialog.cpp(1485): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+         ABT.cpp
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXEXT /D _WINDLL /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\ABT.res" ABT.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\AbnormalShapeManagerd.dll.embed.manifest.res" Debug\AbnormalShapeManagerd_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/AbnormalShapeManagerd.dll" /INCREMENTAL /NOLOGO /DEF:".\ABT.def" /MANIFEST /ManifestFile:"Debug\AbnormalShapeManagerd.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../pdb/AbnormalShapeManagerdd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/AbnormalShapeManagerd.lib" /MACHINE:X86 /DLL Debug\ABT.res
+         Debug\AbnormalShapeManagerd.dll.embed.manifest.res
+         Debug\ABT.obj
+         Debug\ABTDialog.obj
+         Debug\AbTools.obj
+         Debug\CSingleton.obj
+         Debug\Arc.obj
+         Debug\Circle.obj
+         Debug\Complex.obj
+         Debug\Figure.obj
+         Debug\PolyLine.obj
+         Debug\Layer.obj
+         Debug\FPoint.obj
+         Debug\ShapePoint.obj
+         Debug\dllmain.obj
+         Debug\DxfFile.obj
+         Debug\GeneralInterface.obj
+         Debug\ParallelDialog.obj
+         Debug\stdafx.obj
+            正在创建库 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/AbnormalShapeManagerd.lib 和对象 E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/AbnormalShapeManagerd.exp
+       Manifest:
+         正在删除文件“Debug\AbnormalShapeManagerd.dll.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\AbnormalShapeManagerd.dll.embed.manifest" /manifest Debug\AbnormalShapeManagerd.dll.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\AbnormalShapeManagerd.dll.embed.manifest.res" Debug\AbnormalShapeManagerd_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/AbnormalShapeManagerd.dll" /INCREMENTAL /NOLOGO /DEF:".\ABT.def" /MANIFEST /ManifestFile:"Debug\AbnormalShapeManagerd.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../pdb/AbnormalShapeManagerdd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../lib/AbnormalShapeManagerd.lib" /MACHINE:X86 /DLL Debug\ABT.res
+         Debug\AbnormalShapeManagerd.dll.embed.manifest.res
+         Debug\ABT.obj
+         Debug\ABTDialog.obj
+         Debug\AbTools.obj
+         Debug\CSingleton.obj
+         Debug\Arc.obj
+         Debug\Circle.obj
+         Debug\Complex.obj
+         Debug\Figure.obj
+         Debug\PolyLine.obj
+         Debug\Layer.obj
+         Debug\FPoint.obj
+         Debug\ShapePoint.obj
+         Debug\dllmain.obj
+         Debug\DxfFile.obj
+         Debug\GeneralInterface.obj
+         Debug\ParallelDialog.obj
+         Debug\stdafx.obj
+         ABT.vcxproj -> E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\../bin/AbnormalShapeManagerd.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\AbnormalShapeManager.unsuccessfulbuild”。
+         正在对“Debug\AbnormalShapeManager.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\袁梓埠个人文件夹\代码\hello-world\trunk\src\AbnormalShapeManager\ABT.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:15.69
